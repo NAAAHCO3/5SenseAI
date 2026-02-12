@@ -6,7 +6,7 @@
 
 ## 🖥️ Interface do Sistema
 
-![Tela de Login do 5SensAI](assets/login_screen.png)
+![Tela de Login do 5SensAI](assets/login_screen.png?v=1)
 
 ## ✨ Por que 5SensAI?
 
