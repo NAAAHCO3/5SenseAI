@@ -7,6 +7,10 @@
 ## 🖥️ Interface do Sistema
 
 ![Tela de Login do 5SensAI](assets/login_screen_v2.png)
+![Tela de Login do 5SensAI](assets/Dashboard_1.png)
+![Tela de Login do 5SensAI](assets/Dashboard_2.png)
+![Tela de Login do 5SensAI](assets/Painel.png)
+![Tela de Login do 5SensAI](assets/Gestão.png)
 
 ## ✨ Por que 5SensAI?
 
@@ -31,7 +35,9 @@ O processo de auditoria 5S costuma ser lento, manual e subjetivo. O 5SensAI reso
 
 ## 📺 Demonstração em Vídeo
 
-<video src="assets/demo_video.mp4" width="100%" controls></video>
+<video src="https://github.com/NAAAHCO3/5SenseAI/raw/main/assets/demo_video.mp4" width="100%" controls>
+  Seu navegador não suporta vídeos.
+</video>
 
 ---
 
