@@ -4,6 +4,10 @@
 
 ---
 
+## 🖥️ Interface do Sistema
+
+![Tela de Login do 5SensAI](assets/login_screen.png)
+
 ## ✨ Por que 5SensAI?
 
 O processo de auditoria 5S costuma ser lento, manual e subjetivo. O 5SensAI resolve isso:
@@ -24,4 +28,11 @@ O processo de auditoria 5S costuma ser lento, manual e subjetivo. O 5SensAI reso
 > ⚠️ **Nota**: Este repositório contém uma **versão de demonstração (Showcase)** para fins de portfólio. O motor de IA (5SensAI Engine), a lógica Multi-tenant e o processamento de dados em larga escala são protegidos por licença comercial.
 
 ---
+
+## 📺 Demonstração em Vídeo
+
+<video src="assets/demo_video.mp4" width="100%" controls></video>
+
+---
+
 *Interessado em implementar a solução completa na sua unidade industrial? Entre em contato para uma demonstração.*
