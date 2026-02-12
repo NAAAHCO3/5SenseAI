@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  showcase:
+    build: .
+    container_name: 5sensai_showcase
+    ports:
+      - "8501:8501"
+    restart: always

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+sqlalchemy
+streamlit
+python-jose
+passlib
+bcrypt
+python-multipart
+plotly
+pydantic

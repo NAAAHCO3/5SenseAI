@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# SEÇÃO 5SENS-AI: PROTEÇÃO DO NEGÓCIO
+
+
+# O "Cérebro" (Propriedade Intelectual)
+*.joblib
+auditor5s.py
+main.py
+security.py
+create_tenant.py
+database.py
+
+# Dados Sensíveis e Configurações
+.env
+.env.*
+!*.env.example
+local.db
+
+# Dados de Clientes e Logs (Pastas Inteiras)
+evidencias/
+dataset_5s_10000.csv
+postgres_data/
+
+# Persistência do Docker
+pgdata/

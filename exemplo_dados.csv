@@ -1,0 +1,6 @@
+ID,Texto,Setor,Classificacao,Senso_Sugerido
+1,"Fios expostos no painel elétrico do setor A","Produção","Não Conforme","Seiketsu (Padronização)"
+2,"Bancada limpa e ferramentas organizadas após o turno","Oficina","Conforme","Seiso (Limpeza)"
+3,"Acúmulo de caixas vazias obstruindo a passagem","Logística","Não Conforme","Seiri (Utilização)"
+4,"Identificação de prateleiras legível e atualizada","Almoxarifado","Conforme","Seiton (Ordenação)"
+5,"Vazamento de óleo identificado e sinalizado corretamente","Manutenção","Conforme","Shitsuke (Autodisciplina)"
