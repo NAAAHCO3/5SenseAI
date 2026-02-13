@@ -33,12 +33,8 @@ O processo de auditoria 5S costuma ser lento, manual e subjetivo. O 5SensAI reso
 
 ---
 
-## 📺 Demonstração em Vídeo
+## 📺 Demonstração em GIF
 
-<video src="https://github.com/NAAAHCO3/5SenseAI/raw/main/assets/demo_video_2.mp4" width="100%" controls>
-  Seu navegador não suporta vídeos.
-</video>
-
----
+![Demonstração](assets/demo.gif)
 
 *Interessado em implementar a solução completa na sua unidade industrial? Entre em contato para uma demonstração.*
