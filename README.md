@@ -1,6 +1,6 @@
 # ⛩️ 5SensAI - O Auditor Digital para sua Indústria
 
-**5SensAI** é uma plataforma SaaS que utiliza Inteligência Artificial (NLP) para transformar auditorias 5S em dados acionáveis.
+**5SensAI** é uma plataforma que utiliza Inteligência Artificial (NLP) para transformar auditorias 5S em dados acionáveis.
 
 ---
 
